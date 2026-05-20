@@ -1,0 +1,37 @@
+title: "Switch"
+email: "rnapuzzles@gzlab.ac.cn"
+description: >
+  Ribocentre-switch: a database of riboswitches
+baseurl: ""
+url: "https://switch.ribocentre.org"
+paper_title: "Ribocentre-switch: a database of riboswitches"
+paper_url: "https://doi.org/10.1093/nar/gkad891"
+theme_key: "switch"
+site_domain: "switch.ribocentre.org"
+site_family_label: "Riboswitch database"
+logo_path: "/images/riboswitch-logo.svg"
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+plugins:
+  - liquid
+
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true
