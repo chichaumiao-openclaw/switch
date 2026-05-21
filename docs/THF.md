@@ -271,7 +271,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");
@@ -393,7 +393,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage1(imageUrl) {
         var imagePreview = document.getElementById("image-preview1");

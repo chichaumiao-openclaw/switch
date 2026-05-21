@@ -319,7 +319,7 @@ permalink: /docs/Guanidine/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");
@@ -441,7 +441,7 @@ permalink: /docs/Guanidine/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage1(imageUrl) {
         var imagePreview = document.getElementById("image-preview1");
@@ -563,7 +563,7 @@ permalink: /docs/Guanidine/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage2(imageUrl) {
         var imagePreview = document.getElementById("image-preview2");
@@ -636,7 +636,7 @@ permalink: /docs/Guanidine/
             </div>
         </div>
     </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
     <script type='text/javascript'>
       var zoomWraper7 = document.querySelector(".zoom-wrapper7");
       var panzoom7 = Panzoom(document.querySelector(".zoom-area7"), {

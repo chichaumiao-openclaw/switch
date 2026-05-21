@@ -303,7 +303,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");

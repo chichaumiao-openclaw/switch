@@ -345,7 +345,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");
@@ -467,7 +467,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage1(imageUrl) {
         var imagePreview = document.getElementById("image-preview1");
@@ -589,7 +589,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage2(imageUrl) {
         var imagePreview = document.getElementById("image-preview2");

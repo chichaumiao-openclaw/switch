@@ -3,13 +3,15 @@ email: "rnapuzzles@gzlab.ac.cn"
 description: >
   Ribocentre-switch: a database of riboswitches
 baseurl: ""
-url: "https://switch.ribocentre.org"
+url: "https://switch.gznl.org"
 paper_title: "Ribocentre-switch: a database of riboswitches"
 paper_url: "https://doi.org/10.1093/nar/gkad891"
 theme_key: "switch"
-site_domain: "switch.ribocentre.org"
+site_domain: "switch.gznl.org"
 legacy_site_domains:
+  - "switch.gznl.org"
   - "switch.ribocentre.org"
+  - "riboswitch.ribocentre.org"
   - "ribocentre-switch.github.io"
 site_family_label: "Riboswitch database"
 logo_path: "/images/riboswitch-logo.svg"

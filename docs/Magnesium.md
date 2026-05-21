@@ -246,7 +246,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");
@@ -319,7 +319,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
             </div>
         </div>
     </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
     <script type='text/javascript'>
       var zoomWraper3 = document.querySelector(".zoom-wrapper3");
       var panzoom3 = Panzoom(document.querySelector(".zoom-area3"), {

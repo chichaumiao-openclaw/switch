@@ -228,8 +228,8 @@ permalink: /
 <div class="gcse-search"></div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Example: 
     <a href="/#gsc.tab=0&gsc.sort=&gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
-    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
-    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=SAH" target="_blank">SAH</a>  <br />
+    <a href="https://switch.gznl.org/#gsc.tab=0&gsc.sort=&gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
+    <a href="https://switch.gznl.org/#gsc.tab=0&gsc.sort=&gsc.q=SAH" target="_blank">SAH</a>  <br />
     &nbsp;&nbsp;&nbsp;&nbsp;Quick links:&nbsp;
     <a href="/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
     <a href="/sequences/">Sequences</a>&nbsp;&nbsp;

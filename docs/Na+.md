@@ -160,7 +160,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
             </div>
         </div>
     </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
     <script type='text/javascript'>
       var zoomWraper1 = document.querySelector(".zoom-wrapper1");
       var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {

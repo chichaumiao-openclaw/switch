@@ -361,7 +361,7 @@ permalink: /docs/PreQ/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage0(imageUrl) {
         var imagePreview = document.getElementById("image-preview0");
@@ -483,7 +483,7 @@ permalink: /docs/PreQ/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage1(imageUrl) {
         var imagePreview = document.getElementById("image-preview1");
@@ -605,7 +605,7 @@ permalink: /docs/PreQ/
     
 </style>
 
-<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script src="https://ribocentre.gznl.org/js/panzoom.js"></script>
 <script type="text/javascript">
     function showImage2(imageUrl) {
         var imagePreview = document.getElementById("image-preview2");
