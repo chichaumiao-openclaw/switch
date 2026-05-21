@@ -227,7 +227,7 @@ permalink: /
 <script async src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
 <div class="gcse-search"></div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Example: 
-    <a href="http://localhost:4003/#gsc.tab=0&gsc.sort=&gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
+    <a href="/#gsc.tab=0&gsc.sort=&gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
     <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
     <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=SAH" target="_blank">SAH</a>  <br />
     &nbsp;&nbsp;&nbsp;&nbsp;Quick links:&nbsp;
