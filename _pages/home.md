@@ -215,7 +215,7 @@ permalink: /
             ]'
             rfam="true"
     />
-  <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
+  <script type="text/javascript" src="/js/RNAcentral-sequence-search.js"></script></body>
 </html>
 </div>
 <br>
